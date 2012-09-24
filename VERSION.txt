@@ -1,0 +1,3 @@
+Launchpad2: 2.0.0
+
+Available under the BSD license, see README.txt for details

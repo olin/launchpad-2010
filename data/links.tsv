@@ -1,0 +1,83 @@
+main	link	Academic Calendar 2010-2011	academiccalendar.png	http://www.olin.edu/student_life/calendars/calendar2010-11.aspx
+main	link	AdAstra	adastra.png	http://scheduler.olin.edu:8080/astraweb/index.jsp?id1=sched_sta&id2=0linsched
+main	link	AHS	ahs.png	http://projects.olin.edu/ahs/index.html
+main	link	ARB	arb.png	http://arb.olin.edu/
+main	category	Babson	babson.png	?c=babson
+main	link	Blackboard	blackboard.png	http://courses.olin.edu
+main	category	Brandeis	brandeis.png	?c=brandeis
+main	link	Campus Services	campusservices.png	http://campusservices.olin.edu/
+main	category	CORe	corelogo.png	?c=core
+main	category	Courses	courses.png	?c=courses
+main	link	Dining Services	diningservices.png	http://www.olindining.com
+main	link	Facilities	facilities.png	http://campusservices.olin.edu/Facilities.html
+main	link	FWOP	fwop.png	http://fwop.olin.edu
+main	link	Guess The Oliner	guesstheoliner.png	http://namethatoliner.appspot.com
+main	link	Habitat for Humanity	habitat.png	http://serv.olin.edu/habitat/
+main	link	HALP	halp.png	http://acl.olin.edu/advising/
+main	link	Honor Board	honorboard.png	http://honorboard.olin.edu
+main	link	Human Powered Vehicles	hpv.jpg	http://hpv.olin.edu/Home.html
+main	link	IEEE	ieee.png	http://ieee.olin.edu
+main	link	IT	it.png	http://it.olin.edu
+main	link	LaundryView	laundry.png	http://www.laundryview.com
+main	link	Library	library.png	http://library.olin.edu
+main	link	Machine Shop	machineshop.png	http://machineshop.olin.edu
+main	link	Mailman	mailman.png	http://lists.olin.edu
+main	link	Marauder's Map	map.jpg	http://acl.olin.edu/map/ui/mapui.php
+main	link	Mini Baja	baja.png	http://minibaja.olin.edu
+main	link	Mr. Wiki	mrwiki.jpg	http://mrwiki.olin.edu
+main	link	my.olin.edu	my.png	http://my.olin.edu
+main	link	NaceLink	nacelink.png	https://olin-csm.symplicity.com/students/
+main	link	Office of Innovation and Research	oir.png	http://oir.olin.edu
+main	link	Olin College	olin.png	http://www.olin.edu
+main	link	Olin Directory	directry.png	http://acl.olin.edu/directory/
+main	link	Olin Gear	olingear.png	http://olingear.olin.edu/
+main	link	Olin Photos	flickr.png	http://www.flickr.com/photos/olin/
+main	link	Olin RSS Feeds	feeds.png	http://feeds.olin.edu
+main	link	One Card	onecard.png	http://onecard.olin.edu
+main	link	Open	open.png	http://open.olin.edu/
+main	link	OSA	osa.png	http://awesome.olin.edu
+main	link	Parking Ticket Appeal Form	parkingticket.png	http://www3.babson.edu/offices/public_safety/forms_regulations/parking_appeal.cfm
+main	link	PGP	pgp.png	http://www.olin.edu/pgp/
+main	link	Planet Olin	planetolin.png	http://www.planetolin.com
+main	link	Robotics Lab	robotics.png	http://projects.robotics.olin.edu/index.php/Main_Page
+main	link	SERV	serv.png	http://serv.olin.edu
+main	link	SIS	sis.png	https://sis.olin.edu
+main	link	StAR	star.png	http://star.olin.edu
+main	link	Study Away	studyaway.png	http://studyaway.olin.edu
+main	link	SWE	swe.png	http://swe.olin.edu/
+main	link	The Foundry	foundry.png	http://foundry.olin.edu
+main	link	Webmail	webmail.png	https://webmail.olin.edu/
+main	category	Wellesley	wellesley.png	?c=wellesley
+main	link	Workorder	workorder.png	http://isisweb.olin.edu
+main	link	Writing Tutors	writingtutors.png	http://ahs.olin.edu/ahswiki/WritingTutorPage
+main	link	Yearbook	yearbook.png	http://yearbook.olin.edu
+babson	link	Athletics	athletics.png	http://babsonathletics.cstv.com/facilities/webster.html
+babson	link	Health Services	healthservices.png	http://www3.babson.edu/offices/health/
+babson	link	Main Site	babson.png	http://www.babson.edu
+babson	link	Portal	babsonportal.png	https://fusionmx.babson.edu/Fusebox/index.cfm?method=Portal.ShowPortal
+babson	link	Registrar	registrar.png	http://www3.babson.edu/offices/registrar/
+brandeis	link	Main Site	brandeis.png	http://www.brandeis.edu/
+brandeis	link	Registrar	registrar.png	http://www.brandeis.edu/registrar/
+core	link	Core Home	corelogo.png	http://core.olin.edu
+core	link	Launchpad	corelogo.png	http://fwol.in/launchpad2/
+core	link	Submit Line Item	corelogo.png	http://spreadsheets.google.com/viewform?key=pXQ3LYzvFtbdH7TV2IWqXCw
+core	link	Submit to Digest	corelogo.png	mailto:cdigest@students.olin.edu?Subject=Digest%20Submission&Body=Contact%20name%3A%20%0AContact%20email%3A%20%0A%0AAnnouncement%20title%3A%20%0ATagline%20%28optional%29%3A%20%0A%0AAnnouncement%20body%3A%20%0A
+courses	link	Computer Architecture	comparch.png	http://ca.olin.edu/
+courses	link	Design Nature	dn.png	http://design.olin.edu/courses/dn/
+courses	link	Differential Equations	diffeq.png	http://web.mac.com/ggospodi/iweb/math2140-2.html
+courses	link	Discrete Math	discrete.png	http://faculty.olin.edu/~sadams/DM/Calendar.htm
+courses	link	Failure	failure.png	http://faculty.olin.edu/~jstolk/failure2008/
+courses	link	FBE	fbe.png	http://fbe.posterous.com/
+courses	link	Mad VLSI	vlsi.png	http://vlsi.olin.edu/vlsiwiki/2009-2010
+courses	link	MatSci	matsci.png	http://faculty.olin.edu/~jstolk/matsci/
+courses	link	OSSISURB	ossisurb.png	http://ossisurb.olin.edu/
+courses	link	Principles Of Engineering	poe.png	http://ece.olin.edu/poe/
+courses	link	Software Design	sd.png	http://ece.olin.edu/sd
+courses	link	Stuff of History	stuff.png	http://mrwiki.olin.edu/mrwiki/StuffOfHistory2009
+courses	link	Sustainable Design	sustainable.png	http://design.olin.edu/courses/sd
+courses	link	Systems	systems.png	http://ece.olin.edu/systems/
+courses	link	Transport Phenomena	transport.png	http://wb.olin.edu/transport/fall09/
+courses	link	UOCD	uocd.png	http://design.olin.edu/courses/uocd/
+wellesley	link	First Class	firstclass.png	https://firstclass.wellesley.edu/Login/
+wellesley	link	Main Site	wellesley.png	http://www.wellesley.edu/
+wellesley	link	Registrar	registrar.png	http://www.wellesley.edu/Registrar/menu.html
